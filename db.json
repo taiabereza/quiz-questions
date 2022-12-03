@@ -2,6 +2,7 @@
     "lemky": {
         "0": {
             "question": "Яке значення має слово «дзендзина»? Варіянт використання: «Поїду до рідної дзедзини, відпочину душею».",
+            "src": "",
             "answers": {
                 "0": {
                     "index": "A",
@@ -25,6 +26,7 @@
     
         "1": {
             "question": "Яке значення має слово «гудаки»? Варіянт використання: «На весіллі всі аплодували гудакам».",
+            "src": "",
             "answers": {
                 "0": {
                     "index": "A",
@@ -48,6 +50,7 @@
         
         "2": {
             "question": "Яке значення має слово «выґмерати»? Варіянт використання: «Тобі аби щось выґмерати, як тільки щось - і ти вже тут!».",
+            "src": "",
             "answers": {
                 "0": {
                     "index": "A",
@@ -71,6 +74,7 @@
         
         "3": {
             "question": "Яке значення має слово «планета»? Варіянт використання: «Планета там останнім часом зовсім холодна».",
+            "src": "",
             "answers": {
                 "0": {
                     "index": "A",
@@ -94,6 +98,7 @@
     
         "4": {
             "question": "Яке значення має слово «бреск»? Варіянт використання: «І видно бреск над таємничим морем».",
+            "src": "",
             "answers": {
                 "0": {
                     "index": "A",
@@ -118,7 +123,8 @@
 
     "movies": {
         "0": {
-            "question": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-1.jpg",
+            "question": "З якого фільму цей кадр?",
+            "src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-1.jpg",
             "answers": {
                 "0": {
                     "index": "A",
@@ -141,7 +147,8 @@
         },
     
         "1": {
-            "question": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-2.jpg",
+            "question": "З якого фільму цей кадр?",
+            "src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-2.jpg",
             "answers": {
                 "0": {
                     "index": "A",
@@ -164,7 +171,8 @@
         },
         
         "2": {
-            "question": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-3.jpg",
+            "question": "З якого фільму цей кадр?",
+            "src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-3.jpg",
             "answers": {
                 "0": {
                     "index": "A",
@@ -187,7 +195,8 @@
         },
         
         "3": {
-            "question": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-4.jpg",
+            "question": "З якого фільму цей кадр?",
+            "src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-4.jpg",
             "answers": {
                 "0": {
                     "index": "A",
@@ -210,7 +219,8 @@
         },
     
         "4": {
-            "question": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-5.jpg",
+            "question": "З якого фільму цей кадр?",
+            "src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/80-90%20movies/movie-5.jpg",
             "answers": {
                 "0": {
                     "index": "A",
