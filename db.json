@@ -242,4 +242,81 @@
             "rightAnswer": "D"
         }
     }
+    "photogramm": {
+			"christmas": {
+				"0": {
+					"src": "./holidays/christmas/1.jpg",
+					"tags": "christmas_tree, christmas_lights"
+				},
+				"1": {
+					"src": "./holidays/christmas/2.jpg",
+					"tags": "christmas_tree"
+				},
+				"2": {
+					"src": "./holidays/christmas/3.jpg",
+					"tags": "christmas_tree"
+				},
+				"3": {
+					"src": "./holidays/christmas/4.jpg",
+					"tags": "christmas_tree, christmas_lights"
+				},
+				"4": {
+					"src": "./holidays/christmas/5.jpg",
+					"tags": "christmas_tree, decorations, christmas_lights, family"
+				},
+				"5": {
+					"src": "./holidays/christmas/6.jpg",
+					"tags": "christmas_tree, decorations, christmas_lights, family"
+				},
+				"6": {
+					"src": "./holidays/christmas/7.jpg",
+					"tags": "christmas_tree, family"
+				},
+				"7": {
+					"src": "./holidays/christmas/8.jpg",
+					"tags": "christmas_lights, decorations"
+				},
+				"8": {
+					"src": "./holidays/christmas/9.jpg",
+					"tags": "food"
+				},
+				"9": {
+					"src": "./holidays/christmas/10.jpg",
+					"tags": "christmas_tree, decorations"
+				},
+				"10": {
+					"src": "./holidays/christmas/11.jpg",
+					"tags": "christmas_lights, decorations"
+				},
+				"11": {
+					"src": "./holidays/christmas/12.jpg",
+					"tags": "christmas_lights, decorations"
+				},
+				"12": {
+					"src": "./holidays/christmas/13.jpg",
+					"tags": "decorations"
+				},
+				"13": {
+					"src": "./holidays/christmas/14.jpg",
+					"tags": "christmas_lights, food"
+				},
+				"14": {
+					"src": "./holidays/christmas/15.jpg",
+					"tags": "food"
+				},
+				"15": {
+					"src": "./holidays/christmas/16.jpg",
+					"tags": "food"
+				},
+				"16": {
+					"src": "./holidays/christmas/17.jpg",
+					"tags": "food"
+				},
+				"17": {
+					"src": "./holidays/christmas/18.jpg",
+					"tags": "christmas_lights, christmas_tree"
+				}
+			}
+		}
+	}
 }
