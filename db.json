@@ -235,80 +235,121 @@
 			}
 		}
 	},
-	"photogramm": {
-		"christmas": {
-			"0": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/1.jpg",
-				"tags": "christmas_tree, christmas_lights"
+	"moviesByDescr": {
+		"0": {
+			"question": "Чолов'яга їсть шоколадки на автобусній зупинці й роздумує над минулим",
+			"src": "",
+			"answers": {
+				"0": {
+					"index": "A",
+					"answer": "Good Will Hunting / Розумник Вілл Гантінґ"
+				},
+				"1": {
+					"index": "B",
+					"answer": "Forrest Gump / Форрест Ґамп"
+				},
+				"2": {
+					"index": "C",
+					"answer": "Rain Man / Людина дощу"
+				},
+				"3": {
+					"index": "D",
+					"answer": "The Curious Case of Benjamin Button / Загадкова історія Бенджаміна Баттона"
+				}
 			},
-			"1": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/2.jpg",
-				"tags": "christmas_tree"
+			"rightAnswer": "B"
+		},
+		"1": {
+			"question": "Хлопчика забули вдома під час Різдвяних канікул. Він готує собі макарони з сиром.",
+			"src": "",
+			"answers": {
+				"0": {
+					"index": "A",
+					"answer": "Problem Child / Вихідний день Ферріса Бюллера"
+				},
+				"1": {
+					"index": "B",
+					"answer": "Home Alone / Сам удома"
+				},
+				"2": {
+					"index": "C",
+					"answer": "Richie Rich / Багатенький Річ / Річ-багач"
+				},
+				"3": {
+					"index": "D",
+					"answer": "Deck the Halls / Ласкаво просимо, або сусідам вхід заборонено"
+				}
 			},
-			"2": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/3.jpg",
-				"tags": "christmas_tree"
+			"rightAnswer": "B"
+		},
+		"2": {
+			"question": "Компанія людей, яких немає в списку запрошених, завалюється на Різдвяну вечірку в офісній будівлі в Лос-Анджелесі. Чоловіку одної з працівниць це не подобається.",
+			"src": "",
+			"answers": {
+				"0": {
+					"index": "A",
+					"answer": "Skyscraper / Хмарочос"
+				},
+				"1": {
+					"index": "B",
+					"answer": "Taken / Заручниця / Викрадена"
+				},
+				"2": {
+					"index": "C",
+					"answer": "Die Hard / Міцний горішок"
+				},
+				"3": {
+					"index": "D",
+					"answer": "Air Force One / Літак президента"
+				}
 			},
-			"3": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/4.jpg",
-				"tags": "christmas_tree, christmas_lights"
+			"rightAnswer": "C"
+		},
+		"3": {
+			"question": "Школяр зустрічає місцевого божевільного професора й допомагає з ремонтом автівки.",
+			"src": "",
+			"answers": {
+				"0": {
+					"index": "A",
+					"answer": "Rebel Without a Cause / Бунтівник без причини"
+				},
+				"1": {
+					"index": "B",
+					"answer": "Back To The Future / Назад в майбутнє "
+				},
+				"2": {
+					"index": "C",
+					"answer": "Some Kind of Wonderful / Свого роду чудеса"
+				},
+				"3": {
+					"index": "D",
+					"answer": "Baby Driver / Малюк на драйві / На драйві"
+				}
 			},
-			"4": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/5.jpg",
-				"tags": "christmas_tree, decorations, christmas_lights, family"
+			"rightAnswer": "B"
+		},
+		"4": {
+			"question": "Поліцейський вирішує перевірити як довго можна вести автобус, не зупиняючись і не збавляючи швидкості",
+			"src": "",
+			"answers": {
+				"0": {
+					"index": "A",
+					"answer": "Unstoppable / Некерований"
+				},
+				"1": {
+					"index": "B",
+					"answer": "Executive Decision / Рішення про ліквідацію / Наказано знищити"
+				},
+				"2": {
+					"index": "C",
+					"answer": "Mission: Impossible / Місія нездійсненна / Місія неможлива"
+				},
+				"3": {
+					"index": "D",
+					"answer": "Speed / Швидкість"
+				}
 			},
-			"5": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/6.jpg",
-				"tags": "christmas_tree, decorations, christmas_lights, family"
-			},
-			"6": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/7.jpg",
-				"tags": "christmas_tree, family"
-			},
-			"7": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/8.jpg",
-				"tags": "christmas_lights, decorations"
-			},
-			"8": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/9.jpg",
-				"tags": "food"
-			},
-			"9": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/10.jpg",
-				"tags": "christmas_tree, decorations"
-			},
-			"10": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/11.jpg",
-				"tags": "christmas_lights, decorations"
-			},
-			"11": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/12.jpg",
-				"tags": "christmas_lights, decorations"
-			},
-			"12": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/13.jpg",
-				"tags": "decorations"
-			},
-			"13": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/14.jpg",
-				"tags": "christmas_lights, food"
-			},
-			"14": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/15.jpg",
-				"tags": "food"
-			},
-			"15": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/16.jpg",
-				"tags": "food"
-			},
-			"16": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/17.jpg",
-				"tags": "food"
-			},
-			"17": {
-				"src": "https://raw.githubusercontent.com/taiabereza/quiz-questions/master/holidays/christmas/18.jpg",
-				"tags": "christmas_lights, christmas_tree"
-			}
+			"rightAnswer": "D"
 		}
 	}
 }
